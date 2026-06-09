@@ -1,0 +1,66 @@
+{
+    "tipus": [
+        {
+            "simbols": [""],
+            "nom": "",
+            "dialeg": "",
+            "colorR": 0,
+            "colorG": 0,
+            "colorB": 0,
+            "estatica": true,
+            "artFitxer": "art/fitxer.txt"
+        },
+        {
+            "simbols": [""],
+            "nom": "",
+            "dialeg": "",
+            "colorR": 0,
+            "colorG": 0,
+            "colorB": 0,
+            "estatica": true,
+            "artFitxer": "art/fitxer.txt"
+        },
+        {
+            "simbols": [""],
+            "nom": "",
+            "dialeg": "",
+            "colorR": 0,
+            "colorG": 0,
+            "colorB": 0,
+            "estatica": true,
+            "artFitxer": "art/fitxer.txt"
+        }
+    ],
+    "posicions": [
+        {
+            "mapa": "planta1",
+            "simbol": "N",
+            "x": 10,
+            "y": 10
+        },
+        {
+            "mapa": "planta2",
+            "simbol": "N",
+            "x": 10,
+            "y": 10
+        },
+        {
+            "mapa": "planta3",
+            "simbol": "N",
+            "x": 10,
+            "y": 1
+        },
+        {
+            "mapa": "planta4",
+            "simbol": "N",
+            "x": 10,
+            "y": 1
+        },
+        {
+            "mapa": "planta5",
+            "simbol": "N",
+            "x": 10,
+            "y": 1
+        }
+    ]
+}

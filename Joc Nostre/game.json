@@ -1,0 +1,8 @@
+{
+  "configuracio": "$include:configuracio.json",
+  "controls":     "$include:controls.json",
+  "musica":       "$include:musica.json",
+  "npcs":         "$include:npcs.json",
+  "jugador":      "$include:jugador.json",
+  "texts":        "$include:texts.json"
+}

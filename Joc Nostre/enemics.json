@@ -1,0 +1,22 @@
+{
+  "enemics": {
+    "tipus": [
+      {
+        "simbols": ["M"],
+        "nom":     "Monstre gegant",
+        "vida":    100,
+        "atac":    1,
+        "radi":    1,
+        "colorR":  255,
+        "colorG":  255,
+        "colorB":  0,
+        "patroIA": "static",
+        "esBoss":  false,
+        "artFitxer": "art/drac_petit.txt"
+      }
+    ],
+    "posicions": [
+      { "mapa": "pis1", "simbol": "d", "x": 5, "y": 3 }
+    ]
+  }
+}

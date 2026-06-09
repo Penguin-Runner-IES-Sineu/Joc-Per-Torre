@@ -1,0 +1,9 @@
+{
+  "mapes": {
+    "ordre": ["pis1", "pis2"],
+    "registres": [
+      { "id": "pis1", "fitxer": "mapes/pis1.map" },
+      { "id": "pis2", "fitxer": "mapes/pis2.map" }
+    ]
+  }
+}
