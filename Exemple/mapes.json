@@ -1,0 +1,23 @@
+{
+    "mapes": {
+        "ordre": [
+            "planta1",
+            "planta2",
+            "planta3"
+        ],
+        "registres": [
+            {
+                "id": "planta1",
+                "fitxer": "mapes/planta1.map"
+            },
+            {
+                "id": "planta2",
+                "fitxer": "mapes/planta2.map"
+            },
+            {
+                "id": "planta3",
+                "fitxer": "mapes/planta3.map"
+            }
+        ]
+    }
+}
