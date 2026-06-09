@@ -1,0 +1,44 @@
+{
+    "tipusPersonatge": [
+        {
+            "id": "pingui",
+            "nom": "Pingu",
+            "descripcio": "El protagonista clàssic de les rondalles. Equilibrat i afortunat.",
+            "passiu": "sort_rondalla",
+            "descripcioPassiu": "Sort de rondalla: 15% de cada torn, l'enemic falla l'atac.",
+            "artJsonFitxerEsquena": "art/pingu_esquena.json",
+            "vidaMaxima": 100,
+            "atac": 3,
+            "velocitat": 5,
+            "evasio": 10,
+            "pesMaxim": 50
+        },
+        {
+            "id": "foca",
+            "nom": "Foqui",
+            "descripcio": "Mestra de les arts ocultes i els beuratges. Feble, però letal.",
+            "passiu": "pocions_infinites",
+            "descripcioPassiu": "Mestra de pocions: els efectes de verí, foc i gel no s'acaben mai.",
+            "artJsonFitxerEsquena": "art/foca_esquena.json",
+            "vidaMaxima": 70,
+            "atac": 2,
+            "velocitat": 5,
+            "evasio": 15,
+            "pesMaxim": 40
+        }
+    ],
+    "personatgeCustom": {
+        "pressupost": 10,
+        "vidaBase": 70,
+        "vidaPerPunt": 8,
+        "vidaMax": 150,
+        "atacBase": 1,
+        "atacMax": 9,
+        "velocitatBase": 2,
+        "velocitatMax": 7,
+        "evasioBase": 0,
+        "evasioPerPunt": 5,
+        "evasioMax": 30,
+        "pesMaxim": 50
+    }
+}

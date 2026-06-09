@@ -1,14 +1,14 @@
 {
-    "windowTitle": "",
-    "headerTitle": "",
-    "subtitle": "",
-    "menuIniciar": "",
-    "menuSortir": "",
-    "menuReanudar": "",
-    "menuGuardar": "",
-    "menuCarregar": "",
-    "pauseTitle": "",
-    "pauseInstructions": "",
-    "pauseResumePista": "",
-    "menuTornaAcomencar": ""
+    "windowTitle": "Per favor dim que se llegeix",
+    "headerTitle": "Per favor dim que se llegeix",
+    "subtitle": "Per favor dim que se llegeix",
+    "menuIniciar": "Per favor dim que se llegeix",
+    "menuSortir": "Per favor dim que se llegeix",
+    "menuReanudar": "Per favor dim que se llegeix",
+    "menuGuardar": "Per favor dim que se llegeix",
+    "menuCarregar": "Per favor dim que se llegeix",
+    "pauseTitle": "Per favor dim que se llegeix",
+    "pauseInstructions": "Per favor dim que se llegeix",
+    "pauseResumePista": "Per favor dim que se llegeix",
+    "menuTornaAcomencar": "Per favor dim que se llegeix"
 }
