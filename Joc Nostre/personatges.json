@@ -26,19 +26,5 @@
             "evasio": 15,
             "pesMaxim": 40
         }
-    ],
-    "personatgeCustom": {
-        "pressupost": 10,
-        "vidaBase": 70,
-        "vidaPerPunt": 8,
-        "vidaMax": 150,
-        "atacBase": 1,
-        "atacMax": 9,
-        "velocitatBase": 2,
-        "velocitatMax": 7,
-        "evasioBase": 0,
-        "evasioPerPunt": 5,
-        "evasioMax": 30,
-        "pesMaxim": 50
-    }
+    ]
 }
