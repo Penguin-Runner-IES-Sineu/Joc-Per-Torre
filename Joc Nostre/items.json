@@ -18,7 +18,7 @@
                 "pes": 3,
                 "simbol": "H",
                 "defensa": 10,
-                "slot": "PEUS",
+                "slot": "CASC",
                 "tier": 0
             },
             {
@@ -40,7 +40,7 @@
                 "tier": 0
             },
             {
-                "id": "duccasc",
+                "id": "ducpeus",
                 "nom": "Peus de duc",
                 "pes": 3,
                 "simbol": "F",
@@ -54,7 +54,7 @@
                 "pes": 10,
                 "simbol": "H",
                 "defensa": 15,
-                "slot": "PEUS",
+                "slot": "CASC",
                 "tier": 1
             },
             {
@@ -76,7 +76,7 @@
                 "tier": 1
             },
             {
-                "id": "reicasc",
+                "id": "reipeus",
                 "nom": "Peus de rei",
                 "pes": 10,
                 "simbol": "F",
@@ -90,7 +90,7 @@
                 "pes": 5,
                 "simbol": "H",
                 "defensa": 30,
-                "slot": "PEUS",
+                "slot": "CASC",
                 "tier": 2
             },
             {
@@ -112,7 +112,7 @@
                 "tier": 2
             },
             {
-                "id": "empcasc",
+                "id": "emppeus",
                 "nom": "Peus d'emperador",
                 "pes": 5,
                 "simbol": "F",
@@ -143,9 +143,27 @@
             },
             {
                 "mapa": "pis1",
-                "id": "peuspato",
-                "x": 3,
-                "y": 3
+                "id": "duccasc",
+                "x": 13,
+                "y": 1
+            },
+            {
+                "mapa": "pis1",
+                "id": "duccos",
+                "x": 10,
+                "y": 13
+            },
+            {
+                "mapa": "pis1",
+                "id": "duccames",
+                "x": 17,
+                "y": 12
+            },
+            {
+                "mapa": "pis1",
+                "id": "ducpeus",
+                "x": 24,
+                "y": 8
             }
         ]
     }
