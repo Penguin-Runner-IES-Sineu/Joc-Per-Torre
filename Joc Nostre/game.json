@@ -1,8 +1,9 @@
 {
   "configuracio": "$include:configuracio.json",
-  "controls":     "$include:controls.json",
-  "musica":       "$include:musica.json",
-  "npcs":         "$include:npcs.json",
-  "texts":        "$include:texts.json",
-  "equipamentInicial": "$include:equipamentInicial.json"
+  "controls": "$include:controls.json",
+  "musica": "$include:musica.json",
+  "npcs": "$include:npcs.json",
+  "texts": "$include:texts.json",
+  "equipamentInicial": "$include:equipamentInicial.json",
+  "chetos": "$include:chetos.json"
 }

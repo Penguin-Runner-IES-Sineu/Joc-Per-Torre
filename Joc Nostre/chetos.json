@@ -1,0 +1,17 @@
+[
+    {
+        "accio": "god",
+        "sequencia": [
+            "UP",
+            "UP",
+            "DOWN",
+            "DOWN",
+            "LEFT",
+            "RIGHT",
+            "LEFT",
+            "RIGHT",
+            "B",
+            "A"
+        ]
+    }
+]

@@ -1,0 +1,87 @@
+{
+    "items": {
+        "catalogItems": {
+            "armes": [
+                {
+                    "id": "tecnoespasa",
+                    "nom": "Espasa Tecnòlogica",
+                    "pes": 5,
+                    "simbol": "S",
+                    "atac": 50,
+                    "rang": 5,
+                    "tier": 5
+                }
+            ],
+            "armadures": [
+                {
+                    "id": "tecnocasc",
+                    "nom": "Casc tecnològic",
+                    "pes": 5,
+                    "simbol": "H",
+                    "defensa": 50,
+                    "slot": "CASC",
+                    "tier": 5
+                },
+                {
+                    "id": "tecnoplaca",
+                    "nom": "Plaques tecnològiques",
+                    "pes": 5,
+                    "simbol": "C",
+                    "defensa": 50,
+                    "slot": "COS",
+                    "tier": 5
+                },
+                {
+                    "id": "tecnocames",
+                    "nom": "Cames tecnològiques",
+                    "pes": 5,
+                    "simbol": "L",
+                    "defensa": 50,
+                    "slot": "CAMES",
+                    "tier": 5
+                },
+                {
+                    "id": "tecnopeus",
+                    "nom": "Peus tecnològics",
+                    "pes": 5,
+                    "simbol": "F",
+                    "defensa": 50,
+                    "slot": "PEUS",
+                    "tier": 5
+                }
+            ]
+        },
+        "posicions": [
+            {
+                "mapa": "pis1",
+                "id": "tecnoespasa",
+                "x": 6,
+                "y": 2
+            },
+            {
+                "mapa": "pis1",
+                "id": "tecnocasc",
+                "x": 5,
+                "y": 2
+            },
+            {
+                "mapa": "pis1",
+                "id": "tecnoplaca",
+                "x": 4,
+                "y": 2
+            },
+            {
+                "mapa": "pis1",
+                "id": "tecnocames",
+                "x": 3,
+                "y": 2
+            },
+            {
+                "mapa": "pis1",
+                "id": "tecnopeus",
+                "x": 2,
+                "y": 2
+            }
+        ]
+    }
+}

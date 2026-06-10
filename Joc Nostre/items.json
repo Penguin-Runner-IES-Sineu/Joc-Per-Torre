@@ -13,13 +13,112 @@
         ],
         "armadures": [
             {
-                "id": "capell-pages",
-                "nom": "Capell de pagès",
-                "pes": 2,
-                "simbol": "q",
-                "defensa": 1,
-                "slot": "CASC",
+                "id": "duccasc",
+                "nom": "Casc de duc",
+                "pes": 3,
+                "simbol": "H",
+                "defensa": 10,
+                "slot": "PEUS",
                 "tier": 0
+            },
+            {
+                "id": "duccos",
+                "nom": "Plaques de duc",
+                "pes": 3,
+                "simbol": "C",
+                "defensa": 10,
+                "slot": "COS",
+                "tier": 0
+            },
+            {
+                "id": "duccames",
+                "nom": "Cames de duc",
+                "pes": 3,
+                "simbol": "L",
+                "defensa": 10,
+                "slot": "CAMES",
+                "tier": 0
+            },
+            {
+                "id": "duccasc",
+                "nom": "Peus de duc",
+                "pes": 3,
+                "simbol": "F",
+                "defensa": 10,
+                "slot": "PEUS",
+                "tier": 0
+            },
+            {
+                "id": "reicasc",
+                "nom": "Casc de rei",
+                "pes": 10,
+                "simbol": "H",
+                "defensa": 15,
+                "slot": "PEUS",
+                "tier": 1
+            },
+            {
+                "id": "reicos",
+                "nom": "Plaques de rei",
+                "pes": 10,
+                "simbol": "C",
+                "defensa": 15,
+                "slot": "COS",
+                "tier": 1
+            },
+            {
+                "id": "reicames",
+                "nom": "Cames de rei",
+                "pes": 10,
+                "simbol": "L",
+                "defensa": 15,
+                "slot": "CAMES",
+                "tier": 1
+            },
+            {
+                "id": "reicasc",
+                "nom": "Peus de rei",
+                "pes": 10,
+                "simbol": "F",
+                "defensa": 15,
+                "slot": "PEUS",
+                "tier": 1
+            },
+            {
+                "id": "empcasc",
+                "nom": "Casc d'emperador",
+                "pes": 5,
+                "simbol": "H",
+                "defensa": 30,
+                "slot": "PEUS",
+                "tier": 2
+            },
+            {
+                "id": "empcos",
+                "nom": "Plaques d'emperador",
+                "pes": 5,
+                "simbol": "C",
+                "defensa": 30,
+                "slot": "COS",
+                "tier": 2
+            },
+            {
+                "id": "empcames",
+                "nom": "Cames d'emperador",
+                "pes": 5,
+                "simbol": "L",
+                "defensa": 30,
+                "slot": "CAMES",
+                "tier": 2
+            },
+            {
+                "id": "empcasc",
+                "nom": "Peus d'emperador",
+                "pes": 5,
+                "simbol": "F",
+                "defensa": 30,
+                "slot": "PEUS",
+                "tier": 2
             }
         ],
         "pocions": [
@@ -41,6 +140,12 @@
                 "id": "pocio-vida",
                 "x": 14,
                 "y": 9
+            },
+            {
+                "mapa": "pis1",
+                "id": "peuspato",
+                "x": 3,
+                "y": 3
             }
         ]
     }
