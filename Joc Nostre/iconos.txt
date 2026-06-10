@@ -15,6 +15,7 @@ F: Foot
 ^": "Peix fresc",
 *": "Tros de gel màgic",
 
+NPCs:
 n
 ñ
 m
