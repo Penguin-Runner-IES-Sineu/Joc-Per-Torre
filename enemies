@@ -1,0 +1,59 @@
+{
+        "tipus": [
+        {
+            "simbol": "M",
+            "nom": "Morsa",
+            "vida": 3,
+            "velocitat": 1.5,
+            "dany": 1,
+            "dificultatTrivia": 1,
+            "colorR": 180, "colorG": 120, "colorB": 80,
+            "artFitxer": "art/enemy_morsa.txt",
+            "drops": ["peix", "gel"]
+        },
+        {
+            "simbol": "W",
+            "nom": "Morsa Gran",
+            "vida": 6,
+            "velocitat": 0.8,
+            "dany": 2,
+            "dificultatTrivia": 2,
+            "colorR": 140, "colorG": 80, "colorB": 50,
+            "artFitxer": "art/enemy_morsa_gran.txt",
+            "drops": ["peix", "peix", "escata"]
+        },
+        {
+            "simbol": "V",
+            "nom": "Gavina Pirata",
+            "vida": 2,
+            "velocitat": 3.0,
+            "dany": 1,
+            "dificultatTrivia": 1,
+            "colorR": 230, "colorG": 230, "colorB": 230,
+            "artFitxer": "art/enemy_gavina.txt",,
+            "drops:" ["peix"]
+        },
+        {
+            "simbol": "0",
+            "nom": "Ós Polar",
+            "vida": 8,
+            "velocitat": 1.2,
+            "dany": 3,
+            "dificultatTrivia": 3,
+            "colorR": 255, "colorG": 250, "colorB": 240,
+            "artFitxer": "art/enemy_os.txt",
+            "drops": ["escata", "gel", "peix"]
+        },
+        {
+            "simbol": "K",
+            "nom": "Krill Gegant",
+            "vida": 1,
+            "velocitat": 2.0,
+            "dany": 1,
+            "dificultatTrivia": 1,
+            "colorR": 255, "colorG": 100, "colorB:" 100,
+            "artFitxer": "art/enemy_krill.txt",
+            "drops": []
+        }
+    ]
+}
