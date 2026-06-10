@@ -15,3 +15,6 @@ F: Foot
 ^": "Peix fresc",
 *": "Tros de gel màgic",
 
+n
+ñ
+m

@@ -1,14 +1,14 @@
 {
-    "windowTitle": "Per favor dim que se llegeix",
-    "headerTitle": "Per favor dim que se llegeix",
-    "subtitle": "Per favor dim que se llegeix",
-    "menuIniciar": "Per favor dim que se llegeix",
-    "menuSortir": "Per favor dim que se llegeix",
-    "menuReanudar": "Per favor dim que se llegeix",
-    "menuGuardar": "Per favor dim que se llegeix",
-    "menuCarregar": "Per favor dim que se llegeix",
-    "pauseTitle": "Per favor dim que se llegeix",
-    "pauseInstructions": "Per favor dim que se llegeix",
-    "pauseResumePista": "Per favor dim que se llegeix",
-    "menuTornaAcomencar": "Per favor dim que se llegeix"
+    "windowTitle": "Penguin Adventure (no es mostra)",
+    "headerTitle": "Penguin Adventure: ",
+    "subtitle": "Una aventura contra animals marins",
+    "menuIniciar": "Iniciar",
+    "menuSortir": "Sortir",
+    "menuReanudar": "Reanudar",
+    "menuGuardar": "Guardar Partida",
+    "menuCarregar": "Carregar Partida",
+    "pauseTitle": "Pause",
+    "pauseInstructions": "Has pausat el joc.",
+    "pauseResumePista": "",
+    "menuTornaAcomencar": "Tornar a jugar"
 }

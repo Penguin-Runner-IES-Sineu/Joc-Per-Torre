@@ -1,66 +1,48 @@
 {
     "tipus": [
         {
-            "simbols": [""],
-            "nom": "",
-            "dialeg": "",
-            "colorR": 0,
-            "colorG": 0,
-            "colorB": 0,
+            "simbols": ["n"],
+            "nom": "Test",
+            "dialeg": "Test",
+            "colorR": 255,
+            "colorG": 255,
+            "colorB": 255,
             "estatica": true,
-            "artFitxer": "art/fitxer.txt"
+            "artFitxer": "art/npc_1.txt"
         },
         {
-            "simbols": [""],
-            "nom": "",
-            "dialeg": "",
+            "simbols": ["ñ"],
+            "nom": "Test",
+            "dialeg": "Test",
             "colorR": 0,
             "colorG": 0,
             "colorB": 0,
             "estatica": true,
-            "artFitxer": "art/fitxer.txt"
+            "artFitxer": "art/npc_2.txt"
         },
         {
-            "simbols": [""],
-            "nom": "",
-            "dialeg": "",
-            "colorR": 0,
-            "colorG": 0,
-            "colorB": 0,
+            "simbols": ["m"],
+            "nom": "Test",
+            "dialeg": "Test",
+            "colorR": 255,
+            "colorG": 255,
+            "colorB": 255,
             "estatica": true,
-            "artFitxer": "art/fitxer.txt"
+            "artFitxer": "art/npc_3.txt"
         }
     ],
     "posicions": [
         {
-            "mapa": "planta1",
-            "simbol": "N",
+            "mapa": "pis1",
+            "simbol": "n",
+            "x": 24,
+            "y": 7
+        },
+        {
+            "mapa": "pis2",
+            "simbol": "ñ",
             "x": 10,
             "y": 10
-        },
-        {
-            "mapa": "planta2",
-            "simbol": "N",
-            "x": 10,
-            "y": 10
-        },
-        {
-            "mapa": "planta3",
-            "simbol": "N",
-            "x": 10,
-            "y": 1
-        },
-        {
-            "mapa": "planta4",
-            "simbol": "N",
-            "x": 10,
-            "y": 1
-        },
-        {
-            "mapa": "planta5",
-            "simbol": "N",
-            "x": 10,
-            "y": 1
         }
     ]
 }
