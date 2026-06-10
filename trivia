@@ -83,7 +83,7 @@
         {
             "id": "t011",
             "pregunta": "A quina velocitat neda una foca?",
-            "respostes": ["5 km/h", "15 km/h" "35 km/h", "80 km/h"],
+            "respostes": ["5 km/h", "15 km/h", "35 km/h", "80 km/h"],
             "correcta": 2,
             "dificultat": 2,
             "enemic": "morsa"

@@ -2,25 +2,97 @@
   "enemics": {
     "tipus": [
       {
-        "simbols": ["M"],
-        "nom":     "Monstre gegant",
-        "vida":    100,
-        "atac":    1,
-        "radi":    1,
-        "colorR":  255,
-        "colorG":  255,
-        "colorB":  0,
+        "simbols": [
+          "M"
+        ],
+        "nom": "Morsa",
+        "vida": 130,
+        "atac": 9,
+        "radi": 3,
+        "colorR": 180,
+        "colorG": 120,
+        "colorB": 80,
+        "patroIA": "perseguir",
+        "esBoss": false,
+        "artFitxer": "art/morsa.txt"
+      },
+      {
+        "simbols": [
+          "W"
+        ],
+        "nom": "Morsa Gran",
+        "vida": 250,
+        "atac": 15,
+        "radi": 1,
+        "colorR": 140,
+        "colorG": 80,
+        "colorB": 50,
         "patroIA": "static",
-        "esBoss":  false,
-        "artFitxer": "art/drac_petit.txt"
+        "esBoss": false,
+        "artFitxer": "art/morsa_gran.txt"
+      },
+      {
+        "simbols": [
+          "V"
+        ],
+        "nom": "Gavina Pirata",
+        "vida": 50,
+        "atac": 3,
+        "radi": 10,
+        "colorR": 230,
+        "colorG": 230,
+        "colorB": 230,
+        "patroIA": "guardia",
+        "esBoss": false,
+        "artFitxer": "art/gavina.txt"
+      },
+      {
+        "simbols": [
+          "0"
+        ],
+        "nom": "Ós Polar",
+        "vida": 350,
+        "atac": 20,
+        "radi": 1,
+        "colorR": 255,
+        "colorG": 250,
+        "colorB": 240,
+        "patroIA": "pacman",
+        "esBoss": true,
+        "artFitxer": "art/ospolar.txt"
       }
     ],
     "posicions": [
-      { "mapa": "pis1", "simbol": "M", "x": 16, "y": 6 },
-      { "mapa": "pis1", "simbol": "M", "x": 27, "y": 4 },
-      { "mapa": "pis1", "simbol": "M", "x": 10, "y": 6 },
-      { "mapa": "pis1", "simbol": "M", "x": 10, "y": 6 },
-      { "mapa": "pis1", "simbol": "M", "x": 10, "y": 3 }
+      {
+        "mapa": "pis1",
+        "simbol": "M",
+        "x": 16,
+        "y": 6
+      },
+      {
+        "mapa": "pis1",
+        "simbol": "M",
+        "x": 27,
+        "y": 4
+      },
+      {
+        "mapa": "pis1",
+        "simbol": "M",
+        "x": 10,
+        "y": 6
+      },
+      {
+        "mapa": "pis1",
+        "simbol": "M",
+        "x": 10,
+        "y": 6
+      },
+      {
+        "mapa": "pis1",
+        "simbol": "M",
+        "x": 10,
+        "y": 3
+      }
     ]
   }
 }

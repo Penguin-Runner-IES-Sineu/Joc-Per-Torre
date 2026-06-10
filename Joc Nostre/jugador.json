@@ -1,7 +1,7 @@
 {
     "nom": "Pingu",
     "artFitxer": "art/jugador.txt",
-    "artFitxerEsquena": "art/jugador_esquena.txt",
+    "artFitxerEsquena": "art/jugador.txt",
     "vidaMaxima": 1000,
     "atac": 3,
     "velocitat": 5,

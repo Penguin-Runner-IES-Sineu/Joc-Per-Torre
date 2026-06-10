@@ -1,0 +1,17 @@
+M : "Morsa",
+W : "Morsa Gran",
+V : "Gavina Pirata",
+0 : "Ós Polar",
+p : "Puny",
+f : "Peix Mort",
+l : "Llançaflames",
+
+H: head
+C: Cos
+L: Legs
+F: Foot
+
+! "Poció de vida",
+^": "Peix fresc",
+*": "Tros de gel màgic",
+

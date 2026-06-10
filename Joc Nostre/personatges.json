@@ -4,8 +4,8 @@
             "id": "pingui",
             "nom": "Pingu",
             "descripcio": "Un pingui molt educat però que no tendrà por a pegar-te si li fas mal",
-            "passiu": "sort_rondalla",
-            "descripcioPassiu": "Sort de rondalla: 15% de cada torn, l'enemic falla l'atac.",
+            "passiu": "",
+            "descripcioPassiu": "",
             "artJsonFitxerEsquena": "art/pingu_esquena.json",
             "vidaMaxima": 100,
             "atac": 5,
@@ -16,15 +16,15 @@
         {
             "id": "foca",
             "nom": "Foqui",
-            "descripcio": "Mestra de les arts ocultes i els beuratges. Feble, però letal.",
-            "passiu": "pocions_infinites",
-            "descripcioPassiu": "Mestra de pocions: els efectes de verí, foc i gel no s'acaben mai.",
+            "descripcio": "Una foca marina experta en natació. Lenta a terra, però devastadora a l'aigua.",
+            "passiu": "",
+            "descripcioPassiu": "",
             "artJsonFitxerEsquena": "art/foca_esquena.json",
-            "vidaMaxima": 70,
-            "atac": 2,
-            "velocitat": 5,
-            "evasio": 15,
-            "pesMaxim": 40
+            "vidaMaxima": 120,
+            "atac": 4,
+            "velocitat": 4,
+            "evasio": 8,
+            "pesMaxim": 30
         }
     ]
 }

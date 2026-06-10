@@ -15,18 +15,18 @@
                 "nom": "Peix Mort",
                 "pes": 3,
                 "simbol": "f",
-                "atac": 1,
+                "atac": 2,
                 "rang": 5,
                 "tier": 1
             },
             {
-                "id": "peix",
-                "nom": "Peix Mort",
-                "pes": 3,
-                "simbol": "f",
-                "atac": 1,
-                "rang": 5,
-                "tier": 1
+                "id": "flamethrower",
+                "nom": "Llançaflames",
+                "pes": 5,
+                "simbol": "l",
+                "atac": 20,
+                "rang": 3,
+                "tier": 2
             }
         ],
         "armadures": [
@@ -148,6 +148,27 @@
                 "tipus": "VIDA",
                 "valor": 30,
                 "tier": 0
+            },
+            {
+                "id": "peix-fresc",
+                "nom": "Peix fresc",
+                "pes": 1,
+                "simbol": "^",
+                "tipus": "VIDA",
+                "colorR": 100,
+                "colorG": 180,
+                "colorB": 255,
+                "tier": 5
+            },
+            {
+                "id": "gel-magic",
+                "nom": "Tros de gel màgic",
+                "pes": 2,
+                "simbol": "*",
+                "tipus": "GEL",
+                "colorR": 180,
+                "colorG": 230,
+                "colorB": 255
             }
         ]
     },

@@ -8,5 +8,6 @@
     "combat": "combat.mp3",
     "boss": "boss.mp3",
     "victoria": "victoria.mp3",
-    "gameOver": "gameover.wav"
+    "gameOver": "gameover.wav",
+    "notaExtra": "No hem editat aquest arxiu perque no es llegeix correctament"
 }
