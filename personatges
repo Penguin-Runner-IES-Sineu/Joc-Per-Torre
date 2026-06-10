@@ -1,0 +1,30 @@
+{
+    "tipusPersonatge": [
+        {
+            "id": "Pingüí",
+            "nom": "En Pingu",
+            "descripcio": "Un pingüí àgil i valent. Petit però ràpid com el vent àrtic.",
+            "passiu": "lliscada_gelada",
+            "descripcioPassiu": "Lliscada gelada: cada 10 segons pot lliscar pel gel i esquivar qualsevol atac.",
+            "artJsonFitxerEsquena": "art/pingui_esquena.json",
+            "vidaMaxima": 80,
+            "atac": 3,
+            "velocitat": 8,
+            "evasio": 18,
+            "pesMaxim": 25
+        },
+        {
+            "id": "foca",
+            "nom": "La Foca",
+            "descripcio": "Una foca marina experta en natació. Lenta a terra, però devastadora a l'aigua.",
+            "passiu": "pell_gruixuda",
+            "descripcioPassiu": "Pell gruixuda: rep un 20% menys de dany de tots els atacs físics.",
+            "artJsonFitxerEsquena": "art/foca_esquena.json",
+            "vidaMaxima": 120,
+            "atac": 4,
+            "velocitat": 4,
+            "evasio": 8,
+            "pesMaxim": 70
+        }
+    ]
+}
