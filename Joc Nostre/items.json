@@ -158,6 +158,7 @@
                 "colorR": 100,
                 "colorG": 180,
                 "colorB": 255,
+                "valor": 50,
                 "tier": 5
             },
             {
@@ -168,6 +169,7 @@
                 "tipus": "GEL",
                 "colorR": 180,
                 "colorG": 230,
+                "valor": 15,
                 "colorB": 255
             }
         ]

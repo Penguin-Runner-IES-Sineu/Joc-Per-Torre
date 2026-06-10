@@ -6,13 +6,13 @@
           "M"
         ],
         "nom": "Morsa",
-        "vida": 130,
-        "atac": 9,
+        "vida": 30,
+        "atac": 2,
         "radi": 3,
         "colorR": 180,
         "colorG": 120,
         "colorB": 80,
-        "patroIA": "perseguir",
+        "patroIA": "guardia",
         "esBoss": false,
         "artFitxer": "art/morsa.txt"
       },
@@ -21,8 +21,8 @@
           "W"
         ],
         "nom": "Morsa Gran",
-        "vida": 250,
-        "atac": 15,
+        "vida": 100,
+        "atac": 9,
         "radi": 1,
         "colorR": 140,
         "colorG": 80,
@@ -36,13 +36,15 @@
           "V"
         ],
         "nom": "Gavina Pirata",
-        "vida": 50,
+        "vida": 20,
         "atac": 3,
         "radi": 10,
+        "velocitat": 5,
+        "travessaParets": true,
         "colorR": 230,
         "colorG": 230,
         "colorB": 230,
-        "patroIA": "guardia",
+        "patroIA": "perseguir",
         "esBoss": false,
         "artFitxer": "art/gavina.txt"
       },
@@ -51,8 +53,8 @@
           "0"
         ],
         "nom": "Ós Polar",
-        "vida": 350,
-        "atac": 20,
+        "vida": 150,
+        "atac": 13,
         "radi": 1,
         "colorR": 255,
         "colorG": 250,
@@ -71,9 +73,9 @@
       },
       {
         "mapa": "pis1",
-        "simbol": "M",
-        "x": 27,
-        "y": 4
+        "simbol": "V",
+        "x": 17,
+        "y": 10
       },
       {
         "mapa": "pis1",
