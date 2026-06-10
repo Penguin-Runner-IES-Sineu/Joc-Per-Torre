@@ -19,6 +19,7 @@
                     "pes": 5,
                     "simbol": "H",
                     "defensa": 50,
+                    "hp": 50,
                     "slot": "CASC",
                     "tier": 5
                 },

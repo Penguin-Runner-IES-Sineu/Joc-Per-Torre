@@ -9,6 +9,24 @@
                 "atac": 1,
                 "rang": 1,
                 "tier": 0
+            },
+            {
+                "id": "peix",
+                "nom": "Peix Mort",
+                "pes": 3,
+                "simbol": "f",
+                "atac": 1,
+                "rang": 5,
+                "tier": 1
+            },
+            {
+                "id": "peix",
+                "nom": "Peix Mort",
+                "pes": 3,
+                "simbol": "f",
+                "atac": 1,
+                "rang": 5,
+                "tier": 1
             }
         ],
         "armadures": [

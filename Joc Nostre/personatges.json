@@ -3,12 +3,12 @@
         {
             "id": "pingui",
             "nom": "Pingu",
-            "descripcio": "El protagonista clàssic de les rondalles. Equilibrat i afortunat.",
+            "descripcio": "Un pingui molt educat però que no tendrà por a pegar-te si li fas mal",
             "passiu": "sort_rondalla",
             "descripcioPassiu": "Sort de rondalla: 15% de cada torn, l'enemic falla l'atac.",
             "artJsonFitxerEsquena": "art/pingu_esquena.json",
             "vidaMaxima": 100,
-            "atac": 300,
+            "atac": 5,
             "velocitat": 5,
             "evasio": 10,
             "pesMaxim": 50
