@@ -1,7 +1,7 @@
 {
-    "atacar": "q",
-    "fugir": "e",
+    "atacar": "a",
+    "fugir": "f",
     "inventari": "i",
-    "interactuar": "f",
-    "mourePes": "d"
+    "interactuar": "e",
+    "mourePes": "m"
 }

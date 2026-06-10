@@ -16,7 +16,11 @@
       }
     ],
     "posicions": [
-      { "mapa": "pis1", "simbol": "M", "x": 5, "y": 3 }
+      { "mapa": "pis1", "simbol": "M", "x": 16, "y": 6 },
+      { "mapa": "pis1", "simbol": "M", "x": 27, "y": 4 },
+      { "mapa": "pis1", "simbol": "M", "x": 10, "y": 6 },
+      { "mapa": "pis1", "simbol": "M", "x": 10, "y": 6 },
+      { "mapa": "pis1", "simbol": "M", "x": 10, "y": 3 }
     ]
   }
 }

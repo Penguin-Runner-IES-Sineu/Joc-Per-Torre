@@ -8,7 +8,7 @@
             "descripcioPassiu": "Sort de rondalla: 15% de cada torn, l'enemic falla l'atac.",
             "artJsonFitxerEsquena": "art/pingu_esquena.json",
             "vidaMaxima": 100,
-            "atac": 3,
+            "atac": 300,
             "velocitat": 5,
             "evasio": 10,
             "pesMaxim": 50
