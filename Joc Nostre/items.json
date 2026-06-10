@@ -179,14 +179,14 @@
             {
                 "mapa": "pis1",
                 "id": "pocio-vida",
-                "x": 14,
-                "y": 9
+                "x": 5,
+                "y": 12
             },
             {
                 "mapa": "pis1",
-                "id": "duccasc",
-                "x": 13,
-                "y": 1
+                "id": "pocio-vida",
+                "x": 8,
+                "y": 47
             },
             {
                 "mapa": "pis1",
@@ -202,9 +202,27 @@
             },
             {
                 "mapa": "pis1",
+                "id": "flamethrower",
+                "x": 15,
+                "y": 92 
+            },
+            {
+                "mapa": "pis1",
                 "id": "ducpeus",
                 "x": 24,
                 "y": 8
+            },
+            {
+                "mapa": "pis1",
+                "id": "peix",
+                "x": 51,
+                "y": 12
+            },
+            {
+                "mapa": "pis2",
+                "id": "flamethrower",
+                "x": 76,
+                "y": 15
             }
         ]
     }
