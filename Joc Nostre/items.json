@@ -153,24 +153,13 @@
                 "id": "peix-fresc",
                 "nom": "Peix fresc",
                 "pes": 1,
-                "simbol": "^",
+                "simbol": "?",
                 "tipus": "VIDA",
                 "colorR": 100,
                 "colorG": 180,
                 "colorB": 255,
                 "valor": 50,
                 "tier": 5
-            },
-            {
-                "id": "gel-magic",
-                "nom": "Tros de gel màgic",
-                "pes": 2,
-                "simbol": "*",
-                "tipus": "GEL",
-                "colorR": 180,
-                "colorG": 230,
-                "valor": 15,
-                "colorB": 255
             }
         ]
     },

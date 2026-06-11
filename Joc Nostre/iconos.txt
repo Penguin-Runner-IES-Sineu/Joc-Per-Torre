@@ -12,8 +12,7 @@ L: Legs
 F: Foot
 
 ! "Poció de vida",
-^": "Peix fresc",
-*": "Tros de gel màgic",
+?": "Peix fresc"
 
 NPCs:
 n
