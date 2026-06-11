@@ -190,6 +190,36 @@
             },
             {
                 "mapa": "pis1",
+                "id": "pocio-vida",
+                "x": 8,
+                "y": 23
+            },
+            {
+                "mapa": "pis1",
+                "id": "pocio-vida",
+                "x": 54,
+                "y": 11
+            },
+            {
+                "mapa": "pis1",
+                "id": "pocio-vida",
+                "x": 8,
+                "y": 23
+            },
+            {
+                "mapa": "pis1",
+                "id": "pocio-vida",
+                "x": 9,
+                "y": 77
+            },
+            {
+                "mapa": "pis1",
+                "id": "duccasc",
+                "x": 50,
+                "y": 12
+            },
+            {
+                "mapa": "pis1",
                 "id": "duccos",
                 "x": 10,
                 "y": 13
@@ -202,15 +232,63 @@
             },
             {
                 "mapa": "pis1",
-                "id": "flamethrower",
-                "x": 15,
-                "y": 92 
-            },
-            {
-                "mapa": "pis1",
                 "id": "ducpeus",
                 "x": 24,
                 "y": 8
+            },
+            {
+                "mapa": "pis2",
+                "id": "reicasc",
+                "x": 14,
+                "y": 8
+            },
+            {
+                "mapa": "pis2",
+                "id": "reicos",
+                "x": 64,
+                "y": 8
+            },
+            {
+                "mapa": "pis2",
+                "id": "reicames",
+                "x": 85,
+                "y": 12
+            },
+            {
+                "mapa": "pis2",
+                "id": "reipeus",
+                "x": 107,
+                "y": 14
+            },
+            {
+                "mapa": "pis3",
+                "id": "empcasc",
+                "x": 54,
+                "y": 1
+            },
+            {
+                "mapa": "pis3",
+                "id": "empcos",
+                "x": 19,
+                "y": 9
+            },
+            {
+                "mapa": "pis3",
+                "id": "empcames",
+                "x": 4,
+                "y": 18
+            },
+            {
+                "mapa": "pis3",
+                "id": "emppeus",
+                "x": 21,
+                "y": 1
+            },
+            {
+                "mapa": "pis1",
+                "id": "flamethrower",
+                "x": 15,
+                "y": 92
             },
             {
                 "mapa": "pis1",
