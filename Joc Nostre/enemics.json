@@ -22,7 +22,7 @@
         ],
         "nom": "Morsa Gran",
         "vida": 100,
-        "atac": 9,
+        "atac": 7,
         "radi": 1,
         "colorR": 140,
         "colorG": 80,
@@ -68,32 +68,50 @@
       {
         "mapa": "pis1",
         "simbol": "M",
-        "x": 16,
-        "y": 6
-      },
-      {
-        "mapa": "pis1",
-        "simbol": "V",
-        "x": 17,
-        "y": 10
+        "x": 10,
+        "y": 8
       },
       {
         "mapa": "pis1",
         "simbol": "M",
         "x": 10,
-        "y": 6
+        "y": 14
       },
       {
         "mapa": "pis1",
         "simbol": "M",
-        "x": 10,
-        "y": 6
+        "x": 41,
+        "y": 13
       },
       {
         "mapa": "pis1",
         "simbol": "M",
-        "x": 10,
-        "y": 3
+        "x": 55,
+        "y": 13
+      },
+      {
+        "mapa": "pis1",
+        "simbol": "M",
+        "x": 43,
+        "y": 12
+      },
+      {
+        "mapa": "pis1",
+        "simbol": "W",
+        "x": 14,
+        "y": 9
+      },
+      {
+        "mapa": "pis3",
+        "simbol": "O",
+        "x": 53,
+        "y": 23
+      },
+      {
+        "mapa": "pis3",
+        "simbol": "O",
+        "x": 53,
+        "y": 22
       }
     ]
   }
