@@ -203,8 +203,14 @@
             {
                 "mapa": "pis1",
                 "id": "pocio-vida",
+                "x": 5,
+                "y": 19
+            },
+            {
+                "mapa": "pis1",
+                "id": "pocio-vida",
                 "x": 8,
-                "y": 23
+                "y": 22
             },
             {
                 "mapa": "pis1",
@@ -233,7 +239,7 @@
             {
                 "mapa": "pis1",
                 "id": "ducpeus",
-                "x": 24,
+                "x": 23,
                 "y": 8
             },
             {
@@ -301,6 +307,42 @@
                 "id": "flamethrower",
                 "x": 76,
                 "y": 15
+            },
+            {
+                "mapa": "pis2",
+                "id": "pocio-vida",
+                "x": 12,
+                "y": 17
+            },
+            {
+                "mapa": "pis2",
+                "id": "gel-magic",
+                "x": 20,
+                "y": 40
+            },
+            {
+                "mapa": "pis2",
+                "id": "peix-fresc",
+                "x": 10,
+                "y": 80
+            },
+            {
+                "mapa": "pis2",
+                "id": "peix-fresc",
+                "x": 10,
+                "y": 72
+            },
+            {
+                "mapa": "pis3",
+                "id": "pocio-vida",
+                "x": 3,
+                "y": 29
+            },
+            {
+                "mapa": "pis3",
+                "id": "gel-magic",
+                "x": 17,
+                "y": 54
             }
         ]
     }
